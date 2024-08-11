@@ -1,0 +1,16 @@
+{
+  "name": "lukaszkondrat/indtly",
+  "description": "Trips listing application ",
+  "authors": [
+    {
+      "name": "Lukasz Kondratowicz",
+      "email": "kondrad11@wp.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
